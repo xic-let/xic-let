@@ -1,7 +1,7 @@
 👋 Hi, I’m @xic-let
 <h1>Welcome to my GitHub profile! 👻</h1> 
 
-I'm a software developer with expertise in back-end development and a passion for coding and building innovative solutions. 
+I'm a software developer with for coding and building innovative solutions. 
 I code in several programming languages, including <h1> C | C# | Python | Java | Javascript </h1>
 <h2> I love to learn new things and applying my skills to solve complex problems. 🤯🤯🤯 </h2>
 
