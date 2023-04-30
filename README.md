@@ -1,15 +1,16 @@
 👋 Hi, I’m @xic-let
 <h1>Welcome to my GitHub profile! 👻</h1> 
-![Snake animation](https://github.com/xic-let/xic-let/blob/output/github-contribution-grid-snake.svg)
+
 
 I'm a software developer with for coding and building innovative solutions. 
 I code in several programming languages, including <h1> C | C# | Python | Java | Javascript </h1>
 <h2> I love to learn new things and applying my skills to solve complex problems. 🤯🤯🤯 </h2>
 
+![Snake animation](https://github.com/xic-let/xic-let/blob/output/github-contribution-grid-snake.svg)
+
 On this platform, you'll find my open-source projects, personal experiments, and contributions to other repositories. 
 <h2>I'm a firm believer in the power of collaboration and knowledge-sharing, and I'm always open to new ideas and feedback.
 🐵🙈🙊</h2>
-
 
 
 <!---
