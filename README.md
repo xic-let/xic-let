@@ -1,4 +1,4 @@
-👋 Hi, I’m @xic-let
+👋 Hi, I’m Patricia
 <h1>Welcome to my GitHub profile! 👻</h1> 
 
 
