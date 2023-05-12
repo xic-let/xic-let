@@ -4,10 +4,17 @@
 I'm a software developer with for coding and building innovative solutions. 
 I code in several programming languages, including <h1> C | C# | Python | Java | Javascript </h1>
 
+<a href="https://github.com/xic-let/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xic-let&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/xic-let/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xic-let&repo=convoychat" />
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xic-let&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let&layout=donut&theme=tokyonight)
 
 
 <h2> I love to learn new things and applying my skills to solve complex problems. 🤯🤯🤯 </h2>
