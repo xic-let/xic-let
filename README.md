@@ -1,13 +1,11 @@
 👋 Hi, I’m Patricia
 <h1>Welcome to my GitHub profile! 👻</h1> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let)]
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let&layout=donut)]
-
 I'm a software developer with for coding and building innovative solutions. 
 I code in several programming languages, including <h1> C | C# | Python | Java | Javascript </h1>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let&layout=donut)
+
 <h2> I love to learn new things and applying my skills to solve complex problems. 🤯🤯🤯 </h2>
 
 ![Snake animation](https://github.com/xic-let/xic-let/blob/output/github-contribution-grid-snake.svg)
