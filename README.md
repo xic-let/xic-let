@@ -21,6 +21,7 @@ On this platform, you'll find my open-source projects, personal experiments, and
 <h2>I'm a firm believer in the power of collaboration and knowledge-sharing, and I'm always open to new ideas and feedback.
 🐵🙈🙊</h2>
 
+(https://github-readme-stats.vercel.app/api?username=xic-let&show_icons=true&theme=tokyonight)
 
 <!---
 xic-let/xic-let is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
