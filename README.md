@@ -3,9 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let)]
 ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic_let&size_weight=0.5&count_weight=0.5)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let&exclude_repo=github-readme-stats,xic-let.github.io)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let&langs_count=10)]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let&layout=donut)]
 
 I'm a software developer with for coding and building innovative solutions. 
