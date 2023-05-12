@@ -9,7 +9,7 @@ I code in several programming languages, including <h1> C | C# | Python | Java |
 </a>
 
 <a href="https://github.com/xic-let/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xic-let&show_icons=true&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=xic-let&show_icons=true&theme=tokyonight" />
 </a>
 
 
