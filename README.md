@@ -4,7 +4,7 @@
 I'm a software developer with for coding and building innovative solutions. 
 I code in several programming languages, including <h1> C | C# | Python | Java | Javascript </h1>
 
-![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117
+
 
 <h2> I love to learn new things and applying my skills to solve complex problems. 🤯🤯🤯 </h2>
 
