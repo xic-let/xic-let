@@ -6,7 +6,7 @@ I code in several programming languages, including <h1> C | C# | Python | Java |
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let&layout=donut&theme=tokyonight)
-![My Image](rubberduck.jpg)
+![My Image](rubberduck2.jpg)
 
 <h2> I love to learn new things and applying my skills to solve complex problems. 🤯🤯🤯 </h2>
 
