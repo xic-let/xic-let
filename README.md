@@ -1,8 +1,9 @@
-👋 Hi, I’m Patricia
+👋 Hi, I’m Patricia <br>
+![My_image](rubberduck2.jpg) <br>
 <h1>Welcome to my GitHub profile! 👻</h1> 
 
 I'm a software developer with a passion for coding and building innovative solutions. <br>
-![My_image](rubberduck2.jpg) <br>
+
 I code in several programming languages, including <h1> C | C# | Python | Java | Javascript </h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xic-let&layout=donut&theme=tokyonight)](https://github.com/xic-let/github-readme-stats)
