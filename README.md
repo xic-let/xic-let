@@ -1,7 +1,7 @@
 👋 Hi, I’m Patricia
 <h1>Welcome to my GitHub profile! 👻</h1> 
 
-I'm a software developer with for coding and building innovative solutions. <br>
+I'm a software developer with a passion for coding and building innovative solutions. <br>
 ![My_image](rubberduck2.jpg) <br>
 I code in several programming languages, including <h1> C | C# | Python | Java | Javascript </h1>
 
